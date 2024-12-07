@@ -82,4 +82,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: greentea-uefi64-image-${{ github.sha }}
-          path: C:\Tea\greenteaos-uefi64.iso
+          path: C:\Tea\greenteaos.iso
